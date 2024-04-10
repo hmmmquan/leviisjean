@@ -1049,6 +1049,7 @@ iframe.tmblr-iframe {
     display: flex!important;
     flex-direction: column!important;
     gap: 20px!important;
+    background-color: transparent!important;
     font-size: {select:Font Size}px!important;
     padding: 0!important;
     border: none!important;
