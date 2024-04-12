@@ -299,6 +299,7 @@ small {
 .type-box {
     width: 100%;
     height: 50px;
+    background-color: {color:Background};
     padding: 0 15px;
     font-family: "Reddit Mono", monospace;
     font-size: {select:Font Size}px;
